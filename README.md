@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
   ### Skills
 
-  https://github.com/s-nashit?achievement=pull-shark&tab=achievements
+ [ https://github.com/s-nashit?achievement=pull-shark&tab=achievements](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white
