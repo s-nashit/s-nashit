@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on MEAN projects
 
   ### Skills
-
- [ https://github.com/s-nashit?achievement=pull-shark&tab=achievements](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white
+https://github.com/s-nashit?achievement=pull-shark&tab=achievements](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white
