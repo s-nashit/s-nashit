@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 
   ### Skills
 
+  - ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)
+
