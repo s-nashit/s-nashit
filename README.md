@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on MEAN projects
 
   ### Skills
+
+  https://github.com/s-nashit?achievement=pull-shark&tab=achievements
