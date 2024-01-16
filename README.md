@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<h1 align="center">Hi 👋, I'm Nashit Humam</h1>
+<h1 align="center" style='color:red'>Hi 👋, I'm Nashit Humam</h1>
 <h3 align="center">A passionate trainer with expertise in development, Machine Learning,& Artificial Intelligence.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=s-nashit&label=Profile%20views&color=0e75b6&style=flat" alt="s-nashit" /> </p>
