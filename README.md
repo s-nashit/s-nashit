@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nashit Humam</h1>
 <h3 align="center">A passionate trainer with expertise in development, Machine Learning,& Artificial Intelligence.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-nashit&label=Profile%20views&color=0e75b6&style=flat" alt="s-nashit" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=s-nashit&label=Profile%20views&color=0e75b6&style=flat" alt="s-nashit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-nashit" alt="s-nashit" /></a> </p>
 
