@@ -1,4 +1,4 @@
-<!--[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <h1 align="center">Hi 👋, I'm Nashit Humam</h1>
 <h3 align="center"  style='color:red'>A passionate trainer with expertise in development, Machine Learning,& Artificial Intelligence.</h3>
@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=s-nashit&show_icons=true&locale=en" alt="s-nashit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-nashit&" alt="s-nashit" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-nashit&" alt="s-nashit" /></p>
