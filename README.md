@@ -15,8 +15,7 @@
 -   🖥️  See my portfolio at [My LinkedIn](http://www.linkedin.com/in/nashit-humam-98568530)
 -   ✉️  You can contact me at [s\_nashit@hotmail.com](mailto:s_nashit@hotmail.com)
 -   🧠  I'm learning testing and automation, Devops
--   🤝  I'm open to collaborating on express projects<a href="https://www.github.com/s-nashit" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/s-nashit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+-   🤝  I'm open to collaborating on express projects
 - 🌱 I’m currently learning **Svelte**
 
 - 👨‍💻 All of my projects are available at [https://github.com/s-nashit](https://github.com/s-nashit)
@@ -24,6 +23,8 @@
 - 💬 Ask me about **AI, DA, ML, Python**
 
 - 📫 How to reach me **s_nashit@hotmail.com**
+
+- <a href="https://www.github.com/s-nashit" target="_blank" rel="noreferrer"><img nsrc="https://img.shields.io/github/followers/s-nashit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
