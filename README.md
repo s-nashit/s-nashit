@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Nashit Humam</h1>
 <h3 align="center"  style='color:red'>A passionate trainer with expertise in development, Machine Learning,& Artificial Intelligence.</h3>
 
-An enthusiastic trainer with expertise in advanced computing. Trained professionals & students alike on web development, coding, data analytics, machine learning, artificial intelligence, & cloud computing. Implemented Government & CSR projects for IBM, Microsoft & EY, along with DGT, Ministry of Skill Development & Entrepreneurship, Govt of India; BCC, Ministry of ICT, Govt of Bangladesh; Government of Bihar & World Bank. Have managed different aspects of operations (HRM, payroll processing, accounting, branch management, sales & promotion) for my employers successfully.
+<p align="center">An enthusiastic trainer with expertise in advanced computing. Trained professionals & students alike on web development, coding, data analytics, machine learning, artificial intelligence, & cloud computing. Implemented Government & CSR projects for IBM, Microsoft & EY, along with DGT, Ministry of Skill Development & Entrepreneurship, Govt of India; BCC, Ministry of ICT, Govt of Bangladesh; Government of Bihar & World Bank. Have managed different aspects of operations (HRM, payroll processing, accounting, branch management, sales & promotion) for my employers successfully.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=s-nashit&label=Profile%20views&color=0e75b6&style=flat" alt="s-nashit" /> </p>
 
