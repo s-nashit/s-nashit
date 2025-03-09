@@ -2,7 +2,7 @@
                 
 
 
-<h1 align="center">Hi 👋, I'm Nashit Humam</h1>
+<h1 align="center">Hi 👋, I'm Nashit</h1>
 <h3 align="center"  style='color:red'>A passionate trainer with expertise in development, Machine Learning,& Artificial Intelligence.</h3>
 
 <p align="center">An enthusiastic trainer with expertise in advanced computing. Trained professionals & students alike on web development, coding, data analytics, machine learning, artificial intelligence, & cloud computing. Implemented Government & CSR projects for IBM, Microsoft & EY, along with DGT, Ministry of Skill Development & Entrepreneurship, Govt of India; BCC, Ministry of ICT, Govt of Bangladesh; Government of Bihar & World Bank. Have managed different aspects of operations (HRM, payroll processing, accounting, branch management, sales & promotion) for my employers successfully.</p>
